@@ -14,7 +14,7 @@ Before running the script, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dheerajark/your-repo.git
+   git clone https://github.com/dheerajark/stock-news-alert.git
    ```
 
 2. Create a `.env` file in the root directory with the following environment variables:
