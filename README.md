@@ -38,13 +38,3 @@ Run the script:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Replace `your-username` and `your-repo` with your actual GitHub username and repository name.
-
-4. Save the `README.md` file.
-
-This `README.md` file provides an overview of your project, including its purpose, prerequisites, setup instructions, usage, and license information. You can customize it further based on your project's specific details and requirements.
-
-After creating the `README.md` file, you can commit it to your Git repository along with your project files.
-
-If you have any further questions or need additional assistance, feel free to ask!
